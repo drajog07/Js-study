@@ -48,3 +48,5 @@ Sting other than "" (empty string) -> true*/
 // console.log(true) //true
 // console.log(+true) // 1
 // console.log(true+) // error
+
+// console.log(+"") -> 0
